@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 </> Sofwate Engineer - UC<br />
-</> HTML, CSS, JS, React, Angular, VUE
 
 <div align="left">
   <a href="https://github.com/nicomildenberg">
